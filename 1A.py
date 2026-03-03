@@ -2,12 +2,21 @@
 # Chakravyuh Containment for Cyber-Grid
 # ================================================================
 '''
-Spiral Chakravyuh achieves 121.8% higher multiplex resilience than flat
-networks while surpassing scale-free performance (0.423 vs 0.345) without
-creating hubs (max degree 7 vs 43). Static Chakravyuh balances attack
-tolerance (symmetry 0.782) via engineered gateways. Demonstrates that
-topological containment elevates minimum compromise fraction required
-for destabilization—a structural alternative to hub-based reliability.
+Achieves 18.3% higher multiplex percolation threshold than flat networks (0.500 vs 0.423)
+while surpassing scale-free performance (0.500 vs 0.139) WITHOUT creating vulnerable hubs
+(max degree 6 vs scale-free's 35). Demonstrates symmetric resilience (0.878) via
+engineered gateways and controlled radial pathways—a structural alternative to
+hub-based reliability.
+
+Key Results:
+    • Multiplex Advantage: 18.3% improvement over flat networks
+    • Symmetric Defense: random(0.423) vs targeted(0.371) [symmetry=0.878]
+    • Hub-Free: max degree=6 (vs scale-free 35), zero high-value nodes
+    • Graceful Degradation: gracefulness=1.000, zero bridges
+
+The Chakravyuh (ancient spiral formation) uses layered rings with inward bias (0.75)
+and limited outward escape—elevating the minimum compromise fraction required for
+destabilization across interdependent cyber-control-physical layers.
 
 '''
 import numpy as np
