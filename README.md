@@ -3,7 +3,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![NetworkX](https://img.shields.io/badge/NetworkX-2.5+-orange)](https://networkx.org/)
 
-A topological approach to cyber-grid resilience inspired by the ancient Chakravyuh formation—achieving **121.8% higher multiplex resilience** than flat networks while surpassing scale-free performance **without creating vulnerable hubs**.
+A topological approach to cyber-grid resilience inspired by the ancient Chakravyuh formation—achieving **18.3% higher multiplex resilience** than flat networks while surpassing scale-free performance **without creating vulnerable hubs** (max degree 6 vs scale-free's 35).
 
 ## 📊 Key Results
 
